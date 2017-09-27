@@ -1,2 +1,3 @@
 # Wordpress
-Site test
+Тестовый сайт.
+Ссылка на хостинг http://dostijenie.zzz.com.ua/
