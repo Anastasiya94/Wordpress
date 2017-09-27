@@ -1,0 +1,159 @@
+# Translation of Themes - modernize in Russian
+# This file is distributed under the same license as the Themes - modernize package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-21 05:13:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - modernize\n"
+
+#. Description of the plugin/theme
+msgid "modernize is a modern, simple and beautiful WordPress theme. I made it for blogging. Customizer, social menu icon, several templates, logo addition, switching function between one column and two columns, etc. are also available."
+msgstr "modernize - это современная простая и красивая тема для WordPress. Лучше всего подходит для ведения блога. Доступны: настройки меню, социальных иконок, несколько шаблонов, изменение логотипа, выбор одной или двух колонок и другие функции."
+
+#. Theme Name of the plugin/theme
+msgid "modernize"
+msgstr "modernize"
+
+#. Template Name of the plugin/theme
+msgid "No widget page"
+msgstr "Страница без виджетов"
+
+#. Template Name of the plugin/theme
+msgid "Full width page"
+msgstr "Полная ширина страницы"
+
+#: template-parts/content-search.php:35 template-parts/content.php:50
+msgid "featured"
+msgstr "избранное"
+
+#: template-parts/content-page.php:46 template-parts/content.php:70
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется мы можем найти то, что вы искали. Возможно, поиск может помочь."
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но нет информации удовлетворяющей условиям поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готов опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:79 template-parts/content-page.php:57
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> для %s</span>"
+
+#: inc/template-tags.php:65
+msgid "Tag : %1$s"
+msgstr "Метка : %1$s"
+
+#: inc/template-tags.php:59
+msgid "Category : %1$s"
+msgstr "Рубрика: %1$s"
+
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:47
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:46
+msgid "Primary"
+msgstr "Основное"
+
+#: footer.php:36
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:34
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: footer.php:20
+msgid "Footer Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одна мысль о &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мысли о &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мыслей о &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, здесь ничего нет. Может быть, попробовать одну из ссылок ниже или воспользоваться поиском?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению, эта страница не может быть найдена."
+
+#. Theme URI of the plugin/theme
+msgid "http://blog.mismithportfolio.com/modernize"
+msgstr "http://blog.mismithportfolio.com/modernize"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/mismith227"
+msgstr "https://profiles.wordpress.org/mismith227"
+
+#. Author of the plugin/theme
+msgid "Takuma Misumi"
+msgstr "Takuma Misumi"
